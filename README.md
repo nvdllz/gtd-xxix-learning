@@ -21,12 +21,13 @@
 
 ## About
 
-:four leaf clover: Familiarizing myself with the tech stack yang bakal dipake dlm development website GTD!
+🍀Familiarizing myself with the tech stack yang bakal dipake dlm development website GTD!
 This document serves as a guide/tutorial/reference pas ngerjain projects dan tasks IT GTD.
 
 ## What is included in this archive?
 
-Dokumen ini dibagi jd 5 bagian: [foundations](foundations/README.md), [UI/UX](ux-ui/README.md), [frontend](frontend/README.md), [backend](backend/README.md), dan [miscellaneous](misc/README.md). Setiap part bakal ada tujuan/targetnya, 
+Dokumen ini dibagi jd 5 bagian: [foundations](foundations/README.md), [UI/UX](ux-ui/README.md), [frontend](frontend/README.md), [backend](backend/README.md), dan [miscellaneous](misc/README.md). Setiap part bakal ada tujuan/targetnya.
+
 💭 Note: *italic* = opsional
 
 Each part contains: list apa yang diajarin, estimasi durasi, prereq (kalo ada), komentar2. 
@@ -41,13 +42,16 @@ Each part contains: list apa yang diajarin, estimasi durasi, prereq (kalo ada), 
 ## Goals
 
 ⭐[foundations](foundations/README.md): paham basics dari HTML, CSS, dan JS karena bakal tiga-tiganya bakal dipake di dalem frontend dan backend. 
+
 Recommended depth: ★★/★★★.
 
 ⭐[UI/UX](ux-ui/README.md): bikin layout2 pake Figma. (at least navigate around Figma biar bisa gampang dapet properties (color, image, dsb.)).
 
 ⭐[frontend](frontend/README.md): React dan Tailwind CSS buat mempermudah bikin website dibanding pure HTML, CSS, dan JS. Pake React, in simple terms bisa misah2in bagian2 dari website yang biasanya pake HTML ke komponen2 yang bisa dipake ulang2. Pake Tailwind CSS bisa nge-style komponen2 itu lebih cepet dibanding CSS biasa. Selama pake React & Tailwind, kalian bakal refer bolak balik ke reference/documentation HTML, CSS, dan JS. Recommended depth: ★★★/★★★★.
 
-⭐[backend](backend/README.md), kalian bakal pake Node.js dan Express buat nge-handle HTTP requests. Kalian boleh langsung belajar ke Express setelah tau cara setup basic Node.js project, gk perlu belajar terlalu dalem Node.js buat tau cara pake Express. Recommended depth: ★★★/★★★★.
+⭐[backend](backend/README.md), kalian bakal pake Node.js dan Express buat nge-handle HTTP requests. Kalian boleh langsung belajar ke Express setelah tau cara setup basic Node.js project, gk perlu belajar terlalu dalem Node.js buat tau cara pake Express. 
+
+Recommended depth: ★★★/★★★★.
 
 ⭐[miscellaneous](misc/README.md): **Git & GitHub,** TypeScript (extension dari JavaScript) buat type-checking variables di JavaScript biar error2 yang berkaitan dengan types ketangkep waktu development sebelum transpile. Bagian ini jangan di-ignore ya ges, minimal belajar Git & GitHub. Recommended depth: ★★.
 
