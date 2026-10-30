@@ -42,4 +42,4 @@
 | **Depth**       | JS: ★★★★ |
 | **Comment**         | "4 video pertama udah cukup. Video ke-5 s.d. 8 boleh juga tp lebih advanced." -Gill |
 
-**[Continue to UI/UX >](../../ux-ui/README.md)** or **[Continue to Frontend >](../../frontend/README.md)**
+**[Continue to UI/UX >](GTD29/learning-resources/5.%20ux-ui%20(WIP)/README.md)** or **[Continue to Frontend >](GTD29/learning-resources/2.%20frontend/README.md)**

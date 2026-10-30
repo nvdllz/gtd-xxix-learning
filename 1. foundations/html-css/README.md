@@ -49,6 +49,8 @@
 | **Depth**       | HTML: ★★★★<br>CSS: ★★★★                                                                                                                                                                                                                                                                                                                                                                   |
 | **Comment**     | "Akan lebih baik kalau kalian punya basic HTML, CSS dan Javascript sebelum mulai belajar React ya. Engga ush terlalu dalem2 banget, at least you know the basic styling and function." -Priscil                                                                                                                                                                                           |
 
+---
+
 ### [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
 | <!-- -->               | <!-- -->                                                                                                      |
@@ -69,4 +71,4 @@
 | **Depth**              | CSS: ★★★★★<br>                                                                                                                                                                                                                               |
 | **Comment**            | "Bagian yang penting [CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout). Bagian lain kyk selectors bakal jarang dipake nanti karena udah pake Tailwind CSS. Baca-baca bagian lain kalo ada waktu ekstra aja." -Gill |
 
-**[Continue to JavaScript >](../javascript/README.md)**
+**[Continue to JavaScript >](GTD29/learning-resources/1.%20foundations/javascript/README.md)**

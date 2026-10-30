@@ -84,4 +84,4 @@ Karena Next.js (bagian selanjutnya) itu on top of React dan kita bakal pake Tail
 | **Depth**             | Tailwind CSS: NA                                                                                                                                                                                                                           |
 | **Comment**           | "I actually prefer reading directly into the documentation BUT if you think it is too hard to follow, you can always watch the tutorial I provided yang nge guide you step by step to use Tailwind and apply it to your project" -Kristian |
 
-**[Continue to Next.js >](../nextjs/README.md)**
+**[Continue to Next.js >](GTD29/learning-resources/2.%20frontend/nextjs/README.md)**

@@ -40,4 +40,4 @@ Bagian ini bisa learn as you go.
 | **Depth**   | Next.js: ★★★★★                   |
 | **Comment** | "Pilih yang App Router" -Gill    |
 
-**[Continue to Backend >](../../backend/README.md)** or **[Continue to Miscellaneous >](../../misc/README.md)**
+**[Continue to Backend >](GTD29/learning-resources/3.%20backend/README.md)** or **[Continue to Miscellaneous >](GTD29/learning-resources/4.%20misc/README.md)**

@@ -32,4 +32,4 @@
 | **Depth**              | Git: ★★★★                                                                                                                                                                         |
 | **Comment**            | "Gk harus semua dipelajari, yang bakal dipake mostly: git commit, branch, merge, clone, pull, push." -Gill                                                                        |
 
-**[Continue to TypeScript >](../typescript/README.md)**
+**[Continue to TypeScript >](GTD29/learning-resources/4.%20misc/typescript/README.md)**
